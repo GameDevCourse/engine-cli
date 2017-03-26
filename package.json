@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-console",
+  "bin": {
+    "engine": "out/cli.js"
+  },
+  "version": "0.0.0",
+  "main": "./out/main.js",
+  "dependencies": {
+    "@types/fs-extra": "^2.0.0",
+    "fs-extra": "^2.1.2",
+    "static-server": "^2.0.4"
+  }
+}
